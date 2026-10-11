@@ -1,0 +1,5 @@
+question_id,prompt,language,market,system,interface,model,web_search,observed_at_utc,run_id,response_status,brand_mention,recommendation_context,citation_status,own_citation_url,evidence_file,notes
+fictional-q1,Which planning tools suit a small team?,en,example-market,fictional-system-a,example-only,,unknown,2026-10-11T08:00:00Z,fictional-run,completed,yes,passing mention,available,https://example.com/features,not-a-real-file,Fictional arithmetic example
+fictional-q1,Which planning tools suit a small team?,en,example-market,fictional-system-b,example-only,,unknown,2026-10-11T08:00:00Z,fictional-run,completed,no,,available,,not-a-real-file,Fictional arithmetic example
+fictional-q1,Which planning tools suit a small team?,en,example-market,fictional-system-c,example-only,,unknown,2026-10-11T08:00:00Z,fictional-run,completed,no,,unavailable,,not-a-real-file,Fictional arithmetic example
+fictional-q1,Which planning tools suit a small team?,en,example-market,fictional-system-d,example-only,,unknown,2026-10-11T08:00:00Z,fictional-run,failed,unknown,,unavailable,,,Fictional failure excluded from denominators
