@@ -1,0 +1,10 @@
+# EXAMPLE FRAGMENT ONLY: do not replace an existing robots.txt with this file.
+# Fictional policy choice: permit OpenAI search fetching; decline GPTBot fetching.
+# Review the whole file and current provider documentation before deployment.
+# https://developers.openai.com/api/docs/bots
+# These rules do not authenticate bots or protect private content.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
