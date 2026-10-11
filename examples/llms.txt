@@ -1,0 +1,16 @@
+# ExamplePlan
+
+> Fictional scheduling software for small teams. This is a documentation example.
+
+Replace every example.com link and product statement with accurate public information.
+Use Markdown destinations only when those public versions actually exist.
+
+## Product
+- [Features](https://example.com/features.md): Available features and limitations.
+- [Pricing](https://example.com/pricing.md): Current plans and allowances.
+
+## Help
+- [Calendar setup](https://example.com/help/calendar.md): Setup steps and prerequisites.
+
+## Optional
+- [Release notes](https://example.com/updates.md): Published changes.
